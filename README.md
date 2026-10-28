@@ -12,6 +12,10 @@
 - 최우수상  — 2025년 IC-PBL 챌린지 프로그램, 국립창원대학교 RISE사업단장상 (2025.11)  
   AMR 안전을 위한 UWB MIMO 레이더 아이디어 · [국립창원대학교 수상 소개](https://www.changwon.ac.kr/it/na/ntt/selectNttInfo.do?mi=13522&nttSn=1410997)
 
+## Certifications
+
+- ADsP (데이터분석 준전문가)
+
 ## Training
 
 - Doosan Robotics Academy — Basic Training (6시간, 2026.08.12), Core Training (12시간, 2026.08.13–14)
