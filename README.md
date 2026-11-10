@@ -1,5 +1,7 @@
 ## Awards
 
+- 우수논문상 — 2026년 한국제조데이터인공지능학회 추계 종합학술대회 (2026.11): 「연기 가림 환경에서 객체 추적을 활용한 드론 기반 사람 탐지 성능 개선」 (발표자: 권태훈, 김병욱) · [상장](awards/2026-ksma-excellent-paper-award.pdf)
+
 - 최우수상  — 2026 제4회 경남 AI·SW 경진대회, 국립창원대학교 총장상 (2026.10)  
   정삼인들 팀 · CrowdFlow Agent · [국립창원대학교 수상 소개](https://www.changwon.ac.kr/ce/na/ntt/selectNttInfo.do?mi=6636&nttSn=1436170)
 
